@@ -1,0 +1,26 @@
+[
+  {
+    "package": "asciiSetupReader",
+    "oncran": true
+  },
+  {
+    "package": "caesar",
+    "oncran": true
+  },
+  {
+    "package": "crimeutils",
+    "oncran": true
+  },
+  {
+    "package": "fastDummies",
+    "oncran": true
+  },
+  {
+    "package": "meditations",
+    "oncran": true
+  },
+  {
+    "package": "predictrace",
+    "oncran": true
+  }
+]

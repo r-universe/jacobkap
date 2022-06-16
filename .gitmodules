@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "asciiSetupReader"]
+	path = asciiSetupReader
+	url = https://github.com/jacobkap/asciisetupreader
+	shallow = true
+	registered = true
+[submodule "caesar"]
+	path = caesar
+	url = https://github.com/jacobkap/caesar
+	shallow = true
+	registered = true
+[submodule "crimeutils"]
+	path = crimeutils
+	url = https://github.com/jacobkap/crimeutils
+	shallow = true
+	registered = true
+[submodule "fastDummies"]
+	path = fastDummies
+	url = https://github.com/jacobkap/fastdummies
+	shallow = true
+	registered = true
+[submodule "meditations"]
+	path = meditations
+	url = https://github.com/jacobkap/meditations
+	shallow = true
+	registered = true
+[submodule "predictrace"]
+	path = predictrace
+	url = https://github.com/jacobkap/predictrace
+	shallow = true
+	registered = true

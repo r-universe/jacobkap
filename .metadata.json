@@ -1,9 +1,5 @@
 [
   {
-    "package": "meditations",
-    "oncran": true
-  },
-  {
     "package": "asciiSetupReader",
     "oncran": true
   },
@@ -16,11 +12,15 @@
     "oncran": true
   },
   {
-    "package": "predictrace",
+    "package": "fastDummies",
     "oncran": true
   },
   {
-    "package": "fastDummies",
+    "package": "meditations",
+    "oncran": true
+  },
+  {
+    "package": "predictrace",
     "oncran": true
   }
 ]

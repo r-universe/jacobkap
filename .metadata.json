@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "censusGeography",
+    "oncran": true
+  },
+  {
     "package": "crimeutils",
     "oncran": true
   },
@@ -21,6 +25,10 @@
   },
   {
     "package": "predictrace",
+    "oncran": true
+  },
+  {
+    "package": "UCR.ColumnNames",
     "oncran": true
   }
 ]

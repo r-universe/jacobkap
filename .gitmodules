@@ -13,6 +13,11 @@
 	url = https://github.com/jacobkap/caesar
 	shallow = true
 	registered = true
+[submodule "censusGeography"]
+	path = censusGeography
+	url = https://github.com/jacobkap/censusgeography
+	shallow = true
+	registered = true
 [submodule "crimeutils"]
 	path = crimeutils
 	url = https://github.com/jacobkap/crimeutils
@@ -31,5 +36,10 @@
 [submodule "predictrace"]
 	path = predictrace
 	url = https://github.com/jacobkap/predictrace
+	shallow = true
+	registered = true
+[submodule "UCR.ColumnNames"]
+	path = UCR.ColumnNames
+	url = https://github.com/jacobkap/ucr.columnnames
 	shallow = true
 	registered = true

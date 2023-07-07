@@ -8,9 +8,6 @@
 [submodule "caesar"]
 	path = caesar
 	url = https://github.com/jacobkap/caesar
-[submodule "censusGeography"]
-	path = censusGeography
-	url = https://github.com/jacobkap/censusgeography
 [submodule "crimeutils"]
 	path = crimeutils
 	url = https://github.com/jacobkap/crimeutils

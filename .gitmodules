@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "UCR.ColumnNames"]
 	path = UCR.ColumnNames
-	url = https://github.com/jacobkap/ucr.columnnames
+	url = https://github.com/cran/UCR.ColumnNames
 [submodule "asciiSetupReader"]
 	path = asciiSetupReader
 	url = https://github.com/jacobkap/asciisetupreader
